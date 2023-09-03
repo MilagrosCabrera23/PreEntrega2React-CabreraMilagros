@@ -1,0 +1,18 @@
+.navbar-brand {
+    color: white !important;
+    font-size: 1.2em !important;
+    font-weight: bold;
+}
+
+.NavbarContainer {
+    background-color: blueviolet;
+    color: blue !important;
+    font-size: 1.1em;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+;
+}
+
+.nav-link {
+    color: white !important;
+    margin: 0em 0.2em;
+}
